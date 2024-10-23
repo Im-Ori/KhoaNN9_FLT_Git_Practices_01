@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Change login
+=======
+Change dashboard
+>>>>>>> feature/dashboard
